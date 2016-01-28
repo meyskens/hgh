@@ -5,23 +5,24 @@ body{
 	font-family: 'Montserrat', sans-serif;
 }
 
-#navigatie {
+#head {
 	margin-top:20px;
 	padding: 10px;
 	background-color: #2DB899;
 	border-radius: 7px;
 }
-#navigatie ul {
+#head ul {
 	list-style-type:none;
 	margin:0;
-	padding:0;
+	padding-top: 3%;
+	padding-right: 30px;
 }
 
-#navigatie ul li {
+#head ul li {
 	margin-right: 15px;
 }
 
-#navigatie ul li a {
+#head ul li a {
 	text-decoration:none;
 	background-color: #FFFB74;
 	color: #000000;
