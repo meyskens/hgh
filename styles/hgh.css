@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#FFFFC0;
+}
+
+#navigatie ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+#navigatie li a{
+	text-decoration:none;
+	displag:block;
+	
+}
+	
+
