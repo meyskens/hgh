@@ -16,6 +16,12 @@ ul {
 	background-color: #2DB899;
 	border-radius: 7px;
 }
+#foot{margin-top:20px;
+	padding: 10px;
+	background-color: #2DB899;
+	border-radius: 7px;
+	text-align:right;
+	}
 #head ul {
 	list-style-type:none;
 	margin:0;
