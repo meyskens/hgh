@@ -5,6 +5,11 @@ body{
 	font-family: 'Montserrat', sans-serif;
 }
 
+ul {
+	list-style-type: disc;
+	padding-left: 5%;
+}
+
 #head {
 	margin-top:20px;
 	padding: 10px;
