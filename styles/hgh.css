@@ -50,6 +50,11 @@ ul {
 	color: #000000;
 }
 
+#head ul li a:focus {
+	background-color: #FF9B62;
+	color: #000000;
+}
+
 .jumbotron {
 	padding: 200px 0px;
 	margin: 5px 0px;
