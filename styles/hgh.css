@@ -27,12 +27,11 @@ ul {
 #head ul {
 	list-style-type:none;
 	margin:0;
-	padding-top: 1%;
-	padding-left: 0px;
+	padding: 1% 0 0 0;
 }
 
 #head ul li {
-	margin-right: 10px;
+	margin-right: 5px;
 }
 
 #head ul li a {
