@@ -45,7 +45,7 @@ ul {
 	font-size: 15px;
 	border-radius: 10px;
 	text-align:center;
-	width:90%
+	width:90%;
 }
 
 #head ul li a.active {
@@ -75,7 +75,7 @@ ul {
 
 .jumbotron h1 {
 	text-align: center;
-	font-size: 40px;
+	font-size: 30px;
 	font-family: 'Montserrat', sans-serif;
 	color:white;
 	text-shadow: 2px 2px 3px rgba(150, 150, 150, 1);
@@ -97,10 +97,11 @@ h2 {
 	padding:0px 30px;
 }
 
-#foot{margin-top:20px;
+#foot{
+	margin-top:20px;
 	margin-bottom:20px;
 	padding: 25px;
 	background-color: #2DB899;
 	border-radius: 7px;
 	text-align:right;
-	}
+}
